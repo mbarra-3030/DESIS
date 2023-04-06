@@ -1,5 +1,10 @@
 # Prueba técnica para DESIS
 
+## Versiones
+
+- PHP 8.2.0
+- MySQL 15.1
+
 ## Instrucciones
 
 - Iniciar el servidor MySQL
